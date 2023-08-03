@@ -10,5 +10,6 @@ public class Team3 {
 	System.out.println("강은수 !");
 	System.out.println("고양이");
 	System.out.println("기흥님이당");
+	System.out.println("소라님이당");
 	}
 }
