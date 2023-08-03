@@ -17,5 +17,7 @@ public class Team3 {
 
 	System.out.println("주상이당");
 	
+	System.out.println("나는 소라야?");
+	
 	}
 }
