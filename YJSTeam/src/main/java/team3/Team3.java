@@ -15,5 +15,7 @@ public class Team3 {
 	System.out.println("기흥님이당");
 	System.out.println("소라님이당");
 
+	System.out.println("주상이당");
+	
 	}
 }
