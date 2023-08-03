@@ -4,6 +4,9 @@ public class Team3 {
 	public static void main(String[] args) {
 	System.out.println("YSJ");
 
+	System.out.println("안녕하세요");
+
+
 	System.out.println("JKH");
 
 	
@@ -11,5 +14,6 @@ public class Team3 {
 	System.out.println("고양이");
 	System.out.println("기흥님이당");
 	System.out.println("소라님이당");
+
 	}
 }
