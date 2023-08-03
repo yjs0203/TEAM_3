@@ -5,5 +5,6 @@ public class Team3 {
 	System.out.println("YSJ");
 	
 	System.out.println("강은수 !");
+	System.out.println("고양이");
 	}
 }
